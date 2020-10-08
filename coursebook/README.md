@@ -1,10 +1,6 @@
 # Coursebook
 
-Welcome to the coursebook for FAC!
-
-For general information, including an overview of the course, applicable across the curriculum [start here](general/README.md).
-
-For materials to complete before arrival, you can find our precourse [here](precourse/README.md).
+Welcome to the coursebook!
 
 The first eight weeks will provide you with the necessary building blocks for creating a web app:
 
