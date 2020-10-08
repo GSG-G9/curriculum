@@ -1,47 +1,39 @@
-# PostgreSQL week
+# Authentication Week
 
-## Menu
+## Contents
 
 - [Learning Outcomes](./learning-outcomes.md)
 - [Research topics](./research-afternoon.md)
 - [Project](./project.md)
-- [Resources](./resources)
-
-## Schedule
 
 ### Day 1
 
-- 09:00 - 10:00 
-  -- [Introduction to databases and SQL](https://github.com/foundersandcoders/intro-to-databases)
+- 09:00 - 09:15 - Introduction to [learning outcomes](./learning-outcomes.md)
 
-- 10:00 - 12:00 
-  -- [installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md)
-, those who finish installing can help others with installation problems.
-Then go to [`sql-commands-intro` workshop](https://github.com/Asmaathabet/sql-commands-intro) and work through in pairs if time remaining (help each other first)!
+- 09:15 - 10:00 - [Presentation](https://docs.google.com/presentation/d/1EwWXNoJHxRoJxhFRvwvOr2tqslQe4PBxyDeRHWJFJH4/edit#slide=id.p1) on password management 
   
-  — BREAK —
+- 10:00 - 12:00 - Workshop on [password management](https://github.com/ali-7/ws-password-management)
 
+— BREAK —
 
-- 13:00 - 15:00 -- [workshop on SQL commands and psql](https://github.com/ali-7/postgres-workshop)
+- 13:00 - 15:00 -- Workshop on [cookies](https://github.com/ali-7/cookies-ws)
 
 - 15:00 - 17:00
   -- Q&A/Workshop
 
 ### Day 2
 
-- 09:00 - 10:30 -- [pg module code along](https://github.com/ali-7/pg-code-along)
-
-- 10:30 - 12:00 -- [workshop on making small node app with a database connection](https://github.com/ali-7/pg-workshop)
-
+- 09:00 - 12:00 -- Workshop on [stateless session management](https://github.com/ali-7/jwt-ws)
 
 — BREAK —
 
-- 13:00 - 14:00 -- [Database Testing](https://github.com/GSG-G8/db-testing-ws)
+- 13:00 - 13:30
+  -- [Introduce Project](./project.md)
 
-- 14:00 - 14:30
-  -- [Introduce Project](./project.md) + Intro to research topics for research afternoon
+- 13:30 - 13:45
+  -- Intro to research topics for research afternoon
 
-- 14:30 - 16:00
+- 13:45 - 16:00
   -- [Research Afternoon](./research-afternoon.md)
 
 - 16:00 - 17:00
@@ -49,7 +41,7 @@ Then go to [`sql-commands-intro` workshop](https://github.com/Asmaathabet/sql-co
 
 ### Day 3
 
-- 09:00 - 10:00 -- [db morning challenge](https://github.com/foundersandcoders/db-morning-challenge)
+- 09:00 - 10:00 -- [server-side-validation](https://github.com/AbdallahAmmar96/server-side-validation)
 
 - 10:00 - 12:00 <br>
   Projects

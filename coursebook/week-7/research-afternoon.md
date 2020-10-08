@@ -1,22 +1,24 @@
-## Research afternoon
+## Research topics
 
-### Schemas and relationships
-  - What is a schema and why/when would you need one?
-  - What are primary keys and why do we need them?
-  - Create a visual representation of a mock schema for a database about GSG code Academy, using as many different kinds of relationship as you can. Explain the logic behind it.
+### HTTP vs HTTPS
++ How does HTTPS work? What are TLS/SSL certificates?
++ Why is this important to implement in your projects?
++ Demo how to generate certificates and use them in a node project  
 
-### Database setup and maintenance
-  - What is a build script and why do you need one? (think ahead to how this might come in useful when working on a project this week)
-  - What is database migration?
-  - Create a build script for a simple database (one or two tables only), which you can run locally. Check that it works for you and everyone on your team
+### Stateless vs stateful authentication
++ What is session based authentication (stateful) vs token based authentication (stateless)?
++ Draw flow diagrams to show the steps involved in each process
++ What are the advantages and disadvantages of each?
 
-### Script injections / safety issues
-  - What is a script injection and how do these happen?
-  - How would you prevent script injections?
-  - Prepare a short demonstration of good (and bad?) practices, including some sample code
-  
-### SQL vs NoSQL database
-  - What’s SQL, NoSQL and what’s the difference between them?
-  - When do we use each and why?
-  - What’s the advantages and disadvantages.
+### Session-management in Express
++ What are sessions?
++ What are the different ways of managing sessions in express?
++ Create a minimal example of how to set up a session (FYI: pseudo code is
+  fine)
 
+### Attacks
++ What are the following types of attack?
+  + Man In The Middle (MITM)
+  + Cross Site Scripting (XSS)
+  + Cross Site Request Forgery (CSRF)
++ How can you defend against each of them?
