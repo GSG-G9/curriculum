@@ -11,6 +11,8 @@ This week workshops to be assigned to days later this week
 
 [Git & Github](https://github.com/ali-7/git-and-github-ws)
 
+[Intro to JS](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2004/session-09/intro-to-js.md)
+
 [Variables and Constants](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2004/session-09/variables-and-constants.md)
 
 [Data Types in JavaScript](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2004/session-09/data-types.md)
