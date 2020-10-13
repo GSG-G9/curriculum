@@ -45,12 +45,10 @@
 ## Day 3
 
 - 09:00 - 10:00 <br>
-
 [JavaScript Objects](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2005/session-13/javascript-objects.md)
 
 - 10:00 - 10:30 <br>
-
-- [Into to Project](./project.md)
+[Into to Project](./project.md)
 
 - Projects
 
