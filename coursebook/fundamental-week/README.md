@@ -9,7 +9,7 @@
 
 - 09:30 - 10:30 <br>
 
-Morning Challenge 
+  Morning Challenge 
 
 - 10:30 - 12:30 <br>
 [Terminal](https://github.com/ali-7/terminal-ws)
@@ -19,9 +19,9 @@ Morning Challenge
 - 13:30 - 15:30 <br>
 [Intro to JS](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2004/session-09/intro-to-js.md)
 
-[Variables and Constants](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2004/session-09/variables-and-constants.md)
+  [Variables and Constants](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2004/session-09/variables-and-constants.md)
 
-[Data Types in JavaScript](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2004/session-09/data-types.md)
+  [Data Types in JavaScript](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2004/session-09/data-types.md)
 
 
 ## Day 2
@@ -29,7 +29,7 @@ Morning Challenge
 
 - 09:00 - 10:00 <br>
 
-Morning Challenge 
+  Morning Challenge 
 
 - 10:00 - 12:30 <br>
 [Git & Github](https://github.com/ali-7/git-and-github-ws)
