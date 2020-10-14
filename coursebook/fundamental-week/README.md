@@ -8,8 +8,7 @@
 ## Day 1
 
 - 09:30 - 10:30 <br>
-
-  Morning Challenge 
+[Intro to Pair Programming](https://blog.developer.atlassian.com/try-pair-programming/)
 
 - 10:30 - 12:30 <br>
 [Terminal](https://github.com/ali-7/terminal-ws)
