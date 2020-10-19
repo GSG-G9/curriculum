@@ -41,12 +41,7 @@
 
 ## Day 4
 
-- 09:00 - 10:00 — Morning Challenge - CodeWars
-- 10:00 - 12:30 — Projects
-
-— BREAK —
-
-- 13:30 - 17:00 — Projects
+- 09:00 - 17:00 — Projects
 
 ## Day 5
 
