@@ -2,6 +2,10 @@
 
 ## HTML, CSS, and JavaScript Project
 
+**Create a GitHub repo on G9 org and use `git` command to push your code.**
+
+User Stories:
+
 1. As a User, I want to be able to open the app page and see a brief description of the game and how to play.
 2. As a User, I should be able to check the leaderboard that contains the high score with the name of the players.
 3. As a User, I should have a button to start the game.
