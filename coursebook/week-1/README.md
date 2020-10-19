@@ -52,6 +52,4 @@
 
 — BREAK —
 
-- 13:30-15:00 — [Cohort Stop Go Continue (retrospective) + Team retrospective](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#cohort-retrospective)
-
-- 15:00-17:00 — External Workshop
+- 13:30-15:30 — External Workshop
