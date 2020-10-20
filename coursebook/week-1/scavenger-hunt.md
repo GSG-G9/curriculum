@@ -1,3 +1,0 @@
-# Scavenger hunt
-
-[in progress]

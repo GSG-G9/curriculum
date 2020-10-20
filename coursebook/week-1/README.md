@@ -5,7 +5,7 @@
 - [Learning Outcomes](./learning-outcomes.md)
 - [Research topics](./research-afternoon.md)
 - [Project](./project.md)
-- [Resources](./resources)
+- [Resources](./resources.md)
 
 ## Day 1
 
@@ -28,7 +28,6 @@
 
 - 13:30 - 15:00 — [Responsive Design](https://github.com/yosefanajjar/Responsive-Design-Workshop)
 - 15:00 - 17:00 — [CSS Animation](https://hackmd.io/@yosefanajjar/SJTXyi3gL)
-
 
 ## Day 3
 
