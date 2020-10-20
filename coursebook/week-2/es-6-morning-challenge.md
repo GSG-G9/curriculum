@@ -1,6 +1,7 @@
-## Morning challenge - day 2 - ES6
+## ES6 - Morning challenge
 
 ### ESwhat??
+
 ES5 is a name for the version of JavaScript that we all know and love. It's
 [supported very well](http://kangax.github.io/compat-table/es5/) in reasonably modern browsers, and is probably what you've been using
 upto now.
