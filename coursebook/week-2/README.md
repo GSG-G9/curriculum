@@ -5,7 +5,7 @@
 - [Learning Outcomes](./learning-outcomes.md)
 - [Research topics](./research-afternoon.md)
 - [Project](./project)
-- [Resources](./resources)
+- [Resources](./resources.md)
 
 ## Schedule
 
@@ -34,12 +34,12 @@
   [ES6 morning challenge](./es-6-morning-challenge.md)
 
 - 10:00 - 12:00 <br>
-  [Pure functions workshop](https://github.com/GSG-G8/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile:
+  [Pure functions workshop](https://github.com/GSG-G8/ws-pure-functions-easy-testing)
 
 — BREAK —
 
-- 13:00 - 13:30
-  [Introduce Project](./project2.md)
+- 13:00 - 13:30 <br>
+  [Intro to Project](./project.md)
 
 - 13:30 - 15:30 <br>
   [Intro to Functions](./intro-to-functions-slides.md)
