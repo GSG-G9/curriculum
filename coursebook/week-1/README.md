@@ -46,7 +46,7 @@
 
 - 09:00 - 09:15 - [How to code review](./codereviewintro.md)
 - 09:15 - 10:00 — Code review (1 alumnus per project, 1 team reviews another team)
-- 10.00 - 11:00 — Respond to issues and [plan presentations](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/weekly-projects.md#project-presentation)
+- 10.00 - 11:00 — Respond to issues and plan presentations
 - 11:00 - 12:30 — Projects Presentation
 
 — BREAK —
