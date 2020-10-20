@@ -13,7 +13,7 @@
     + (advanced) groups
   + Find and use on-line tools such as [regex101](https://regex101.com/)
 2. Create a code snippet using regex such as (for example) email validator:
-+ us3r1@foundersandcoders.com
++ us3r1@gazaskygeeks.com
   + user must start with an alphabetical character;
   + user can contain also other characters (which ones?);
   + site and user are always separated by a snail/small duck/AT symbol (@);
