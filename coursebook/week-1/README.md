@@ -5,7 +5,7 @@
 - [Learning Outcomes](./learning-outcomes.md)
 - [Research topics](./research-afternoon.md)
 - [Project](./project.md)
-- [Resources](./resources)
+- [Resources](./resources.md)
 
 ## Day 1
 
@@ -29,7 +29,6 @@
 - 13:30 - 15:00 — [Responsive Design](https://github.com/yosefanajjar/Responsive-Design-Workshop)
 - 15:00 - 17:00 — [CSS Animation](https://hackmd.io/@yosefanajjar/SJTXyi3gL)
 
-
 ## Day 3
 
 - 09:00 - 10:00 — Morning Challenge - CSS
@@ -47,7 +46,7 @@
 
 - 09:00 - 09:15 - [How to code review](./codereviewintro.md)
 - 09:15 - 10:00 — Code review (1 alumnus per project, 1 team reviews another team)
-- 10.00 - 11:00 — Respond to issues and [plan presentations](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/weekly-projects.md#project-presentation)
+- 10.00 - 11:00 — Respond to issues and plan presentations
 - 11:00 - 12:30 — Projects Presentation
 
 — BREAK —
