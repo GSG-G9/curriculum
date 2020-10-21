@@ -25,7 +25,7 @@
 **Important Note:** 
 - You should have a pure functions 
 - You should write a test for every function you have
-- The app should be accessible, responsive, and should save its state even after closing the page `local storage`
+- The app should be responsive, and should save its state even after closing the page `local storage`
 
 **Hints:**
 * The product item could be something lik this objec
