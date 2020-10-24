@@ -9,7 +9,7 @@
 
 ## Day 1
 
-- 09:00 - 10:00 — Morning Challenge
+- 09:00 - 10:00 — [DOM Morning Challenge](https://github.com/lina-jamal/DOM-manipulation-Challenge)
 - 10:00 - 11:30 — [Layout](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2003/session-06/layout.md)
 - 11:30 - 12:30 — [Position](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2003/session-06/Position-workshop.md)
 
