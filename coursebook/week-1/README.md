@@ -15,7 +15,7 @@
 
 — BREAK —
 
-- 13:30 - 15:30 — [Flexbox](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2003/session-06/flexbox.md)
+- 13:30 - 15:30 — [Flexbox](https://github.com/rehabas/Fundamentals-course/blob/master/coursebook/Week%2003/session-06/flexbox.md)
 - 15:30 - 17:00 — [Assignment](https://github.com/gazaskygeeks/Fundamentals-course/blob/master/coursebook/Week%2003/session-06/assignment.md)
 
 ## Day 2
