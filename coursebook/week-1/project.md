@@ -48,7 +48,7 @@ Your repo should contain a README file with these three points -
 
 You may also add more ambitious features in the README which describes **stretch goals**. Feel free to add the user stories from this project guide into your README too.
 
-When working together, groups should split into pairs to complete project tasks, making sure they are constantly communicating with each other. **Please note that although in the [git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two) you were instructed to work in pairs and merge each other's pull requests, as you're working in teams of four now, you will be merging the other pair's pull requests!**
+When working together, groups should split into pairs to complete project tasks, making sure they are constantly communicating with each other. **Please note that although in the [git workshop](https://github.com/Rawan96/git-workflow-workshop-for-two) you were instructed to work in pairs and merge each other's pull requests, as you're working in teams of four now, you will be merging the other pair's pull requests!**
 
 However you decide to individualise your site is up to you, but aim to satisfy the user stories.
 
