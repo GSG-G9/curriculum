@@ -31,8 +31,9 @@
 
 ## Day 3
 
-- 09:00 - 10:00 — Morning Challenge - CSS
-- 10:00 - 12:30 — Projects
+- 09:00 - 10:00 — [Morning Challenge - CSS](https://hackmd.io/kQio8HXGSzy2PGisL30OIg?view)
+- 10:00 - 11:00 _ [Grid View](https://hackmd.io/5NOaJKJfRQCdMFa2edIL7A)
+- 11:00 - 12:30 — Projects
 
 — BREAK —
 
