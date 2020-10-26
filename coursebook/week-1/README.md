@@ -21,7 +21,7 @@
 ## Day 2
 
 - 09:00 - 10:00 — Morning Challenge
-- 10:00 - 12:00 — [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
+- 10:00 - 12:00 — [Git workshop](https://github.com/Rawan96/git-workflow-workshop-for-two)
 - 12:00 - 12:30 — Introduce [Project](./project.md)
 
 — BREAK —
