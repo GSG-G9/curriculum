@@ -18,7 +18,7 @@
   [Introduction to testing and TDD](https://github.com/mossa-Sammer/testing-tdd-intro)
 
 - 10:00 - 12:00 <br>
-  [Jest (TDD) workshop](https://github.com/mossa-Sammer/fizzbuzz)
+  [Jest (TDD) workshop](https://github.com/ali-7/fizzbuzz)
 
 — BREAK —
 
