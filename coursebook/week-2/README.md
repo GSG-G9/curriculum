@@ -34,7 +34,7 @@
   [ES6 morning challenge](./es-6-morning-challenge.md)
 
 - 10:30 - 12:30 <br>
-  [Pure functions workshop](https://github.com/GSG-G8/ws-pure-functions-easy-testing)
+  [Pure functions workshop](https://github.com/ali-7/ws-pure-functions-easy-testing)
 
 — BREAK —
 
