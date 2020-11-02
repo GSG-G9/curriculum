@@ -50,7 +50,7 @@
 ### Day 3
 
 - 09:00 - 10:00 <br>
-  [Traffic Light Callbacks](https://github.com/foundersandcoders/morning-challenge-traffic-lights)
+  [Traffic Light Callbacks](https://github.com/ali-7/morning-challenge-traffic-lights)
 
 - 10:00 - 12:00 <br>
   Projects
