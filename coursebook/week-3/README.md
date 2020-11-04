@@ -17,7 +17,7 @@
 — BREAK —
 
 - 13:00 - 15:00 <br>
-  [GitHub API workshop](https://github.com/foundersandcoders/ws-github-api)
+  [GitHub API workshop](https://github.com/ali-7/ws-github-api)
 
 - 15:00 - 17:00 <br>
   Q & A
