@@ -4,42 +4,45 @@
 
 - [Learning outcomes](./learning-outcomes.md)
 - [Project](./project.md)
-- [Resources](./resources)
+- [Resources](./resources.md)
 
 ### Day 1
 
-- 09:00 - 09:15 <br /> Introduction and learning outcomes with week-3 mentors
+- 09:00 - 11:00 <br>
+  [Introducing APIs](https://github.com/foundersandcoders/api-workshop)
 
-- 09:15 - 11:00 <br /> [Introductory workshop](https://github.com/foundersandcoders/api-workshop): API basics, HTTP, XMLHttp requests, request-response pattern
-
-- 11:00 - 12:00 <br /> [XHR workshop](https://github.com/foundersandcoders/xhr-workshop)
+- 11:00 - 12:00 <br>
+  [XHR workshop](https://github.com/foundersandcoders/xhr-workshop)
 
 — BREAK —
 
-- 13:00 - 15:00 <br /> [Afternoon workshop](https://github.com/emilyb7/workshop-APIs) : making API requests in the browser, callbacks, working with JSON, chaining API requests
+- 13:00 - 15:00 <br>
+  [GitHub API workshop](https://github.com/foundersandcoders/ws-github-api)
 
-- 15:00 - 17:00 <br /> Q & A
+- 15:00 - 17:00 <br>
+  Q & A
 
 ### Day 2
 
-- 09:00 - 11:00 <br />
-  [Call It Back](https://github.com/shiryz/call-it-back)
-  
-- 11:00 - 12:00 <br />
-  [Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
+- 09:00 - 12:00 <br />
+  [Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
 
 — BREAK —
 
-- 13:00 - 13:30 <br />
-  [Introduce Projects](./project.md) & Start Planning Architecture
-- 13:30 - 17:00 <br />
-  [Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
+- 13:00 - 16:00 <br>
+  [Call It Back](https://github.com/shiryz/call-it-back)
+
+- 16:00 - 17:00 <br>
+  [Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
 
 ### Day 3
 
-- 09:00 - 10:00 <br /> [Waterfall morning challenge](https://github.com/foundersandcoders/mc-waterfall-chaser)
+- 09:00 - 10:00 <br> [Waterfall morning challenge](https://github.com/foundersandcoders/mc-waterfall-chaser)
 
-- 10:00 - 12:00 <br>
+- 10:00 - 10:30 <br>
+  [Introduce Project](./project.md)
+
+- 10:30 - 12:00 <br>
   Projects
 
 — BREAK —
@@ -59,12 +62,10 @@
 
 ### Day 5
 
-- 09:00 - 10:00 — Code review 
+- 09:00 - 10:00 — Code review
 - 10.00 - 11:00 — Respond to issues and plan presentations
 - 11:00 - 12:00 — Projects Presentation
 
 — BREAK —
 
-- 13:00 - 15:00 — Cohort Stop Go Continue (retrospective) + Team retrospective
-
-- 15:00 - 17:00 — External Workshop
+- 13:00 - 17:00 — External Workshops
