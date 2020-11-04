@@ -10,11 +10,9 @@ During the planning phase we suggest you spend time on:
 - Considering your user journey
 - Deciding what you need to build for your Minimum Viable Product (MVP) and splitting up the tasks
 
-You'll have most of day 3 and all of day 4 to work on your project. On day 5 we'll have code reviews in the morning and final presentations in the afternoon.
-
 ### Choosing your APIs
 
-See our list of recommended APIs [here](./recommended-apis.md).
+See the list of public APIs [here](https://github.com/public-apis/public-apis).
 
 You can choose to use other APIs if you prefer, but make sure to do your research and check that what you want to do with the API is possible before you start to code.
 
@@ -35,7 +33,7 @@ You can choose to use other APIs if you prefer, but make sure to do your researc
 - Code: break your JavaScript down into small functions with a clear input and output; this will make it easy to write tests
 - Tests: write tests for your pure functions. We don't expect tests on the DOM or on the response from an API.
 - Design: aim for a responsive, mobile-first design
-- Accessibility: same as always, we'll be running your code through accessibility checkers
+
 - Take appropriate measures when it comes to [concealing private information](https://gist.github.com/derzorngottes/3b57edc1f996dddcab25) (i.e. your API key!)
 
 ### Keep in mind
