@@ -25,7 +25,7 @@
 ### Day 2
 
 - 09:00 - 12:00 <br />
-  [Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
+  [Software Design Workshop](https://github.com/ali-7/ws-software-design-js)
 
 — BREAK —
 
