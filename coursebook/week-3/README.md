@@ -9,7 +9,7 @@
 ### Day 1
 
 - 09:00 - 11:00 <br>
-  [Introducing APIs](https://github.com/foundersandcoders/api-workshop)
+  [Introducing APIs](https://github.com/ali-7/api-workshop)
 
 - 11:00 - 12:00 <br>
   [XHR workshop](https://github.com/foundersandcoders/xhr-workshop)
