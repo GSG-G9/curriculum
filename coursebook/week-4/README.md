@@ -16,7 +16,7 @@
   — BREAK —
 
 - 13:00 - 15:00
-  -- [Node Girls workshop](https://github.com/ali-7/refactor-node-girls-ws) (Day 1 of 2)
+  -- [Node Girls workshop](https://github.com/ali-7/node-girls-ws) (Day 1 of 2)
 - 15:00 - 17:00
   -- Q&A/Workshop
 
@@ -26,7 +26,7 @@
   -- [ES6 morning challenge](./morning-challenge-day-2.md)
 
 - 10:00 - 12:00
-  -- [Node Girls workshop](https://github.com/ali-7/refactor-node-girls-ws) (Day 2 of 2)
+  -- [Node Girls workshop](https://github.com/ali-7/node-girls-ws) (Day 2 of 2)
 
 — BREAK —
 
