@@ -30,7 +30,7 @@
 - 13:00 - 13:30 <br>
   [Introduce Project](./project.md)
 
-- 13:30 - 13:30 <br>
+- 13:30 - 17:00 <br>
   [Workshop on TDD Node server](https://github.com/GSG-G8/ws-tdd-node-server)
 
 ### Day 3
