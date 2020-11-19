@@ -11,33 +11,38 @@
 
 ### Day 1
 
-- 09:00 - 12 -- [Workshop on error handling](https://github.com/Amoodaa/error-handling-workshop)
+- 09:00 - 12:00 <br>
+  [Workshop on error handling](https://github.com/Amoodaa/error-handling-workshop)
 
   — BREAK —
 
-- 13:00-13:15 - [Introduction to Express](https://github.com/foundersandcoders/introduction-to-express)
-
-- 13:15-16:00 - [Express-Workshop](https://github.com/ali-7/express-workshop)
-- 16:00 - 17:00
-  -- Q&A/Workshop
-
+- 13:00 - 13:15 <br>
+  [Introduction to Express](https://github.com/foundersandcoders/introduction-to-express)
+  
+- 13:15 - 17:00 <br>
+  [Express-Workshop](https://github.com/ali-7/express-workshop)
+  
 ### Day 2
 
-- 09:00 - 10:30 -- [Workshop on TDD Node server](https://github.com/GSG-G8/ws-tdd-node-server)
+- 09:00 - 11:00 <br>
+  [Creating and Testing Express Routes](https://github.com/ali-7/express-and-testing-workshop)
 
-- 10:30 - 12:00 -- [Creating and Testing Express Routes](https://github.com/ali-7/express-and-testing-workshop)
+- 11:00 - 12:00 <br>
+  [Continuous Integration](./CI.md)
 
 — BREAK —
 
-- 13:00 - 14:30 -- Introduction To Promises - Fetch API - node-fetch - Morning challenge on [Promises](https://github.com/GSG-G8/mc-promise-me-this)
 
-- 14:30 - 15:00 -- [Introduce Project](./project.md)
+- 13:00 - 13:15 <br>
+  [Introduce Project](./project.md)
 
-- 15:00 - 16:00 -- [Continuous Integration](./CI.md)
-
-- 16:00 - 17:00 -- [Client Side Validation](https://github.com/foundersandcoders/mc-client-side-validation)
+- 13:15 - 15:00 <br>
+  [Promises](https://github.com/GSG-G8/mc-promise-me-this)
   
+- 15:00 - 16:00 <br>
+  [Client Side Validation](https://github.com/foundersandcoders/mc-client-side-validation)
   
+
 ### Day 3
 
 - 09:00 - 10:30 [Learn fetch](https://github.com/oliverjam/learn-fetch)
@@ -68,6 +73,4 @@
 
 — BREAK —
 
-- 13:00 - 15:00 — Cohort Stop Go Continue (retrospective) + Team retrospective
-
-- 15:00 - 17:00 — External Workshop
+- 13:00 - 17:00 — External Workshops
