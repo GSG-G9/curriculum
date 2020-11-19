@@ -45,7 +45,8 @@
 
 ### Day 3
 
-- 09:00 - 10:30 [Learn fetch](https://github.com/oliverjam/learn-fetch)
+- 09:00 - 10:30 <br>
+  [Learn fetch](https://github.com/oliverjam/learn-fetch)
 
 - 10:30 - 12:00 <br>
   Projects
