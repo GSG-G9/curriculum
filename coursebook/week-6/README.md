@@ -17,7 +17,7 @@
 - 10:00 - 12:00 
   -- [installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md)
 , those who finish installing can help others with installation problems.
-Then go to [`sql-commands-intro` workshop](https://github.com/Asmaathabet/sql-commands-intro) and work through in pairs if time remaining (help each other first)!
+Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/sql-commands-intro) and work through in pairs if time remaining (help each other first)!
   
   — BREAK —
 
