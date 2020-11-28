@@ -12,7 +12,7 @@
 ### Day 1
 
 - 09:00 - 12:00 <br>
-  [Workshop on error handling](https://github.com/Amoodaa/error-handling-workshop)
+  [Workshop on error handling](https://github.com/GSG-G9/error-handling-workshop)
 
   — BREAK —
 
