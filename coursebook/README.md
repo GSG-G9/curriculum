@@ -10,7 +10,7 @@ The first eight weeks will provide you with the necessary building blocks for cr
 - [Week 3](week-3/README.md) - APIs
 - [Week 4](week-4/README.md) - Node.js
 - [Week 5](week-5/README.md) - Express
-- [Week 6](week-7/README.md) - PostgreSQL
-- [Week 7](week-8/README.md) - Authentication
-- [Week 8](week-9/README.md) - Reading Week
+- [Week 6](week-6/README.md) - PostgreSQL
+- [Week 7](week-7/README.md) - Authentication
+- [Week 8](week-8/README.md) - Reading Week
 - [Week 9](https://github.com/ali-7/react-week) - React Week
