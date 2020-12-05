@@ -12,7 +12,7 @@
 ### Day 1
 
 - 09:00 - 10:00 <br>
-  [Introduction to databases and SQL]()
+  [Introduction to databases and SQL](https://hackmd.io/seVFh7xIQ7iw52o8oUR5Jw?view)
 
 - 10:00 - 12:30 <br>
   [Installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md)
