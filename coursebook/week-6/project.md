@@ -2,7 +2,6 @@
 
 This week's project will involve setting up a database which you connect to via a node.js server. You'll use your data to make a dynamic web app for your front-end.
 
-Some suggested project ideas are below. Feel free to modify according to your interest, provided your idea has similar functionality.
 
 ### Requirements
 
