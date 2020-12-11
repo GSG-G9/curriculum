@@ -4,8 +4,6 @@
 
 - You are free to create **any kind of site that you like** (with authentication!)
 
-- You may **continue your project from last week** if you agree as a team to do so.
-
 - Create your site from a **user-centred design perspective**, by starting your planning phase with user stories.
   - i.e. "As a user I want to **\_\_**, so that **\_\_**"
 
