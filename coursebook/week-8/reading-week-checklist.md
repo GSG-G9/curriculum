@@ -240,12 +240,6 @@ You should know:
 
 ---
 
-### Handlebars
-- [ ] Why can server side rendering be useful?
-- [ ] What is handlebars?
-- [ ] Write a small express server that uses a handlebars template to render a user profile page, which show's a user's name, age, location and a list of hobbies, all of which should be passed into the template as `context`. Make endpoints on the server which uses this template for 5 different users (you need to make up the user data!)
-
----
 
 ### Coding Best Practices
 - [ ] **eslint**
