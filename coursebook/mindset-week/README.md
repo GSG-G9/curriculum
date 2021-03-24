@@ -3,8 +3,8 @@
 ## Contents
 
 - [Learning outcomes](./learning-outcomes.md)
-- [exercise](./exercise.md)
-- [Resources](./resources)
+- [Exercise](./exercise.md)
+- [Resources](./resources.md)
 
 ## Day 1
 
