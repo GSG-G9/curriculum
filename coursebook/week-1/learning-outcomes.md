@@ -1,8 +1,8 @@
 ## Learning outcomes
 This week you are going to learn about the basic tools required to work in a team and what it means to be a member of Founders and Coders:
 
-+ FAC values
-  + What does Founders and Coders stand for?
++ GSG & CA values
+  + What does GSG and the CA stand for?
 + Responsibilities & house rules
   + What is expected from you
 + Semantic HTML
